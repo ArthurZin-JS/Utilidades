@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Utilidades">
+    <output-path>$PROJECT_DIR$/../../2/</output-path>
+    <root id="archive" name="Utilidades.jar">
+      <element id="module-output" name="Utilidades" />
+    </root>
+  </artifact>
+</component>

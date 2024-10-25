@@ -1,0 +1,5 @@
+chat:
+  # Prefixo de chat
+  prefix: "&7[&a%player%&7]&f "
+  # Cor padrão do texto
+  color: "&f"
